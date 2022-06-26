@@ -1,11 +1,17 @@
-# Implementation-of-Filters
+## EX.NO: 06 <br>
+## DATE: 12-05-2022
+## <p align="center">IMPLEMENTATION OF FILTERS</p>
+
 ## Aim:
+
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
 ## Software Required:
+
 Anaconda - Python 3.7
 
 ## Algorithm:
+
 ### Step1
 Import the necessary modules.
 
@@ -46,9 +52,9 @@ laplacian=cv2.Laplacian(image2,cv2.CV_64F)
 Display all the images with their respective filters.
 
 ## Program:
-### Developed By   : Pabbarthi Chetan Sathish Kumar
+### Developed By   : P S Chetan
 ### Register Number: 212220230033
-```
+```PYTHON
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
