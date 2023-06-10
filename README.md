@@ -1,5 +1,5 @@
 ## EX.NO: 06 <br>
-## DATE: 12-05-2022
+## DATE: 06.04.2023
 ## <p align="center">IMPLEMENTATION OF FILTERS</p>
 
 ## Aim:
